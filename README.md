@@ -16,6 +16,7 @@ uses
   ssESCPOSPrintBitmap;
 
 var
+  LDevice : TBlockDevice;
   LBuffer : string;
 begin
   LBuffer := #27'@'; // Initialise the printer
