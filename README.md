@@ -2,6 +2,8 @@
 
 This is based on http://nicholas.piasecki.name/blog/2009/12/sending-a-bit-image-to-an-epson-tm-t88iii-receipt-printer-using-c-and-escpos/
 
+EDIT: You can access the original article on web.archive.org: http://web.archive.org/web/20141207201042/http://nicholas.piasecki.name/blog/2009/12/sending-a-bit-image-to-an-epson-tm-t88iii-receipt-printer-using-c-and-escpos/
+
 The linked Delphi translation did not work for me, so I worked off the original C# test files provided in the article.
 
 ### Example Usage ###
